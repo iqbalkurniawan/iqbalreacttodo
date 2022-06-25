@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/iqbalreacttodo/static/css/main.866a7cd9.css",
-    "main.js": "/iqbalreacttodo/static/js/main.c72cf759.js",
-    "index.html": "/iqbalreacttodo/index.html",
-    "main.866a7cd9.css.map": "/iqbalreacttodo/static/css/main.866a7cd9.css.map",
-    "main.c72cf759.js.map": "/iqbalreacttodo/static/js/main.c72cf759.js.map"
+    "main.css": "/static/css/main.866a7cd9.css",
+    "main.js": "/static/js/main.c72cf759.js",
+    "index.html": "/index.html",
+    "main.866a7cd9.css.map": "/static/css/main.866a7cd9.css.map",
+    "main.c72cf759.js.map": "/static/js/main.c72cf759.js.map"
   },
   "entrypoints": [
     "static/css/main.866a7cd9.css",
